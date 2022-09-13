@@ -1,0 +1,14 @@
+# Project exclude paths
+/E1_first_test/target/
+/E2_Assertion_vs_Assumption/target/
+/E3_Maven/target/
+/E4_Gradle/.gradle/
+/E4_Gradle/build/
+/E4_Gradle/build/classes/java/main/
+/E4_Gradle/build/classes/java/test/
+/E5_Writing_JUnit5_unit_tests/target/
+/E6/target/
+/E8_Testing_multiple_parameter_dynamic_test/target/
+/E9_Parameterized_test/target/
+/E10_IO_test_using_tempDir_annotation/target/
+/E11_Testing_for_annotation/target/

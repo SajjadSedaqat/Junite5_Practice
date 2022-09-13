@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="E9_Parameterized_test" />
+        <module name="E8_Testing_multiple_parameter_dynamic_test" />
+        <module name="E6" />
+        <module name="E11_Testing_for_annotation" />
+        <module name="E7" />
+        <module name="E10" />
+        <module name="E5_Writing_JUnit5_unit_tests" />
+        <module name="E3" />
+        <module name="E1_first_test" />
+        <module name="E2_Assertion_vs_Assumption" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="E10_IO_test_using_tempDir_annotation" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

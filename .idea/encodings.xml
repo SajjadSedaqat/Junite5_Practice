@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/E10_IO_test_using_tempDir_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E10_IO_test_using_tempDir_annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E11_Testing_for_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E11_Testing_for_annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E1_first_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E1_first_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E2_Assertion_vs_Assumption/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E2_Assertion_vs_Assumption/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E3_Maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E3_Maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E5_Writing_JUnit5_unit_tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E5_Writing_JUnit5_unit_tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E8_Testing_multiple_parameter_dynamic_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E8_Testing_multiple_parameter_dynamic_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E9_Parameterized_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E9_Parameterized_test/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
